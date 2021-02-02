@@ -5,4 +5,4 @@ ps aux
 cat cmds.txt
 sleep 1
 sleep 1
-ps
+ps -l
