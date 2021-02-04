@@ -1,5 +1,5 @@
 ls -la
-sleep 1 &
+sleep 3 &
 ls &
 ps aux
 cat cmds.txt
